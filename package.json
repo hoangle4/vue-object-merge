@@ -1,5 +1,5 @@
 {
-	"name": "vue-object-merge",
+	"name": "vue-object-merge-update",
 	"version": "0.1.8",
 	"description": "Utility function for merging an object into a reactive object in Vue",
 	"main": "main.js",
